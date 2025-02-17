@@ -22,8 +22,11 @@ It's also worth mentioning that many of these companies are problematic in other
 | X (Twitter)                                                        |   ❌    | [Elon Musk](./profiles/elon-musk.md)                                                                         |                            |
 | Walmart                                                            |   ❌    | [DEI Rollback](./reasons/dei-rollbacks.md)                                                                   |                            |
 
-
-
 ## Companies to Look Into
-- [LGBT-friendly companies](https://www.prdaily.com/costco-named-most-lgbt-friendly-company/) to research (paywalled, but can see the list)
-	- Costco, Netflix, Panera Bread, Trader Joe's, YouTube (unlikely), Amazon (unlikely), PBS, Ace Hardware, Samsung, Apple
+- Panera Bread
+- Trader Joe's
+- YouTube
+- PBS
+- Ace Hardware
+- Samsung
+- Apple
