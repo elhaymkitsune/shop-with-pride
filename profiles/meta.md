@@ -4,5 +4,6 @@ Following the inauguration in January 2025, Meta started becoming explicitly hos
 The [current hateful conduct policy](https://transparency.meta.com/en-us/policies/community-standards/hateful-conduct/) now includes the following:
 
 > We do allow allegations of mental illness or abnormality when based on gender or sexual orientation, given political and religious discourse about transgenderism and homosexuality and common non-serious usage of words like “weird.”
+
 ## Departing Facebook
 For Facebook in particular, check out [r/AntiFacebook](https://www.reddit.com/r/AntiFacebook/) for [a comprehensive, chronological guide](https://np.reddit.com/r/AntiFacebook/wiki/timeline) of what's wrong with the platform as well as a [step-by-step guide](https://np.reddit.com/r/AntiFacebook/wiki/guide) to leaving. Check out [The Opt Out Project](https://www.optoutproject.net/) for additional tips on managing this transition.
