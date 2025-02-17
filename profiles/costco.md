@@ -1,0 +1,2 @@
+# Costco
+Costco has long held a great track record of being LGBTQ+ friendly. During a time when many companies are [rolling back DEI initiatives](../reasons/dei-rollbacks.md), Costco shareholders [voted to continue DEI initiatives](https://www.lgbtqnation.com/2025/01/costco-defies-boycott-threats-as-shareholders-vote-to-keep-dei-initiatives/) as recently as January 2025.

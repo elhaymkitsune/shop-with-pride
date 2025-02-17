@@ -1,0 +1,6 @@
+# Amazon
+Amazon is a very complicated case.
+
+❌ Following the inauguration in January 2025, Amazon became one of the companies to [roll back DEI initiatives](../reasons/dei-rollbacks.md) and has [removed many LGBTQ+ references ](https://www.lgbtqnation.com/2025/01/amazon-removes-section-on-lgbtq-rights-from-its-policy-page/) from their policy pages. On top of this, Bezos also promised a [$1 million donation to Trump](https://www.cnn.com/2024/12/12/tech/amazon-plans-to-donate-usd1-million-to-president-elect-donald-trumps-inauguration/index.html) (though this does not appear on their [OpenSecrets profile](https://www.opensecrets.org/orgs/amazon-com/summary?all=2024&id=D000023883)).
+
+✅ On the other hand, they have a perfect score in the Human Rights Campaign [2025 Corporate Equality Index](https://www.hrc.org/resources/corporations/amazon.com-inc.). According to their [OpenSecrets profile](https://www.opensecrets.org/orgs/amazon-com/summary?all=2024&id=D000023883), Democratic donations FAR outweigh those to Republican recipients. They also still appear to have [very inclusive hiring practices](https://www.amazon.jobs/content/en/our-workplace/diversity-and-inclusion) which include an employee group called Glamazon that focuses on LGBTQ+ issues.

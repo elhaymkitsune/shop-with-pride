@@ -1,0 +1,2 @@
+# Netflix
+Netflix has come out saying that it plans to [maintain its DEI initiatives](https://news.bloomberglaw.com/esg/netflix-mccormick-uphold-dei-to-investors-after-trump-edict) in the face of Trump's executive orders and also appears to continue to have [inclusive hiring practices](https://jobs.netflix.com/inclusion). They also have a ton of [great LGBTQ+ content](https://www.gaytimes.com/culture/the-best-lgbtq-inclusive-shows-you-can-watch-right-now-on-netflix/) streaming on their platform.
